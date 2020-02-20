@@ -1,0 +1,3 @@
+New API Implementation for CI
+1.StateTenantCraete, StateTenantCreateUtil,createTenantSpec
+2.StateUserCreate,StateUserCreateUtil,createUserSpec
